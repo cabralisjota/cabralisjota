@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm @cabralisjota 👋
 
-<!--
-**cabralisjota/cabralisjota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Python | Network Security | Automation
 
-Here are some ideas to get you started:
+I build hands-on cybersecurity tools focused on
+network monitoring, security analytics, wireless
+network discovery, and incident investigation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work combines Python development, data
+analytics, Linux, and practical security research.
+
+## 🛡️ Featured Cybersecurity Projects
+
+- **[Sentinel 2.0](https://github.com/cabralisjota/sentinel-2.0)** — Flask-based security operations dashboard for visualizing security events and experimenting with intrusion detection.
+- **[Network Forensics Lab](https://github.com/cabralisjota/network-forensics-lab)** — Python network traffic analysis, offline PCAP investigation, and experimental intrusion detection.
+- **[Auth Log Analyzer](https://github.com/cabralisjota/auth-log-analyzer)** — Python authentication log analysis for investigating suspicious login activity.
+- **[Sentinel Wardriver](https://github.com/cabralisjota/sentinel-wardriver)** — Android Termux Wi-Fi discovery, GPS mapping, Flask dashboards, and experimental Flipper Zero integration.
+
+## 💻 Technical Skills
+
+- **Programming:** Python, SQL, Bash
+- **Web Development:** Flask, REST APIs
+- **Databases:** SQLite
+- **Security:** Network forensics, log analysis, intrusion detection
+- **Networking:** Wi-Fi discovery, packet analysis, network monitoring
+- **Tools:** Linux, Termux, Git, GitHub, Flipper Zero
+- **Hardware:** ESP32, Raspberry Pi Pico W, microcontrollers
+
+## 🎓 Background
+
+- Big Data Analytics diploma
+- Electrical Techniques training
+- Hands-on experience with electronics and IoT
+
+## 🚀 Currently Building
+
+- Security monitoring and visualization tools
+- Python-based network analysis utilities
+- Wireless network mapping applications
+- Integrations between cybersecurity projects
+
+## 🔬 Project Philosophy
+
+Build, test, document, improve.
+
+These projects are intended for defensive
+security learning and authorized testing.
+
+---
+
+*Continuously expanding my cybersecurity portfolio.*
