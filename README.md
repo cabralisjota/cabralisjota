@@ -1,56 +1,27 @@
-# Hi, I'm @cabralisjota 👋
+# Purple Team Security | Full-Stack Development | Data Analytics
 
-### Cybersecurity | Python | Network Security | Automation
+I build projects at the intersection of **cybersecurity, software engineering, and data analytics**.
 
-I build hands-on cybersecurity tools focused on
-network monitoring, security analytics, wireless
-network discovery, and incident investigation.
+My interests span offensive-security testing, defensive monitoring, network analysis, Python automation, and full-stack application development. I enjoy understanding how systems work, exploring their weaknesses in authorized environments, and building tools that make technical information useful.
 
-My work combines Python development, data
-analytics, Linux, and practical security research.
+## Areas of focus
 
-Alongside my network security and forensics work, I developed **Sentinel Access Lab**, a Python/Flask RFID access-control simulation for badge monitoring, suspicious activity detection, incident investigation, and administrative security responses.
+- **Purple Team Security:** connecting adversary simulation with detection and defense
+- **Offensive Security:** penetration-testing methodology, vulnerability assessment, and controlled lab research
+- **Full-Stack Development:** Python, Flask, JavaScript, HTML/CSS, and REST-style APIs
+- **Security Engineering:** network analysis, security monitoring, and automation
+- **Data Analytics:** event processing, dashboards, and interactive visualization
 
-## 🛡️ Featured Cybersecurity Projects
+## Featured project
 
-- **[Sentinel Access Lab](https://github.com/cabralisjota/sentinel-access-lab)** — Python/Flask RFID access-control simulation featuring badge monitoring, security alerts, investigations, and administrative controls.
+### [Sentinel 2.0](https://github.com/cabralisjota/sentinel-2.0)
 
+A Flask-based cybersecurity dashboard with a JSON API, simulated security-event analytics, and an interactive **WebGL 3D Earth** interface. It serves as a foundation for future purple-team lab integration.
 
-- **[Sentinel 2.0](https://github.com/cabralisjota/sentinel-2.0)** — Flask-based security operations dashboard for visualizing security events and experimenting with intrusion detection.
-- **[Network Forensics Lab](https://github.com/cabralisjota/network-forensics-lab)** — Python network traffic analysis, offline PCAP investigation, and experimental intrusion detection.
-- **[Auth Log Analyzer](https://github.com/cabralisjota/auth-log-analyzer)** — Python authentication log analysis for investigating suspicious login activity.
-- **[Sentinel Wardriver](https://github.com/cabralisjota/sentinel-wardriver)** — Android Termux Wi-Fi discovery, GPS mapping, Flask dashboards, and experimental Flipper Zero integration.
+## Currently building
 
-## 💻 Technical Skills
-
-- **Programming:** Python, SQL, Bash
-- **Web Development:** Flask, REST APIs
-- **Databases:** SQLite
-- **Security:** Network forensics, log analysis, intrusion detection
-- **Networking:** Wi-Fi discovery, packet analysis, network monitoring
-- **Tools:** Linux, Termux, Git, GitHub, Flipper Zero
-- **Hardware:** ESP32, Raspberry Pi Pico W, microcontrollers
-
-## 🎓 Background
-
-- Big Data Analytics diploma
-- Electrical Techniques training
-- Hands-on experience with electronics and IoT
-
-## 🚀 Currently Building
-
-- Security monitoring and visualization tools
-- Python-based network analysis utilities
-- Wireless network mapping applications
-- Integrations between cybersecurity projects
-
-## 🔬 Project Philosophy
-
-Build, test, document, improve.
-
-These projects are intended for defensive
-security learning and authorized testing.
+A Python penetration-testing toolkit for **authorized testing**, followed by a deliberately vulnerable web-application lab to explore how offensive exercises can inform defensive detection.
 
 ---
 
-*Continuously expanding my cybersecurity portfolio.*
+*Building, testing, analyzing, and learning across security and software engineering.*
