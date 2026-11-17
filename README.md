@@ -11,7 +11,7 @@ My cybersecurity portfolio focuses on **purple team security**: learning from au
 - 🎓 **Big Data Analytics diploma** — data processing, analysis, and visualization
 - ⚡ **Electrical Techniques training** — electrical fundamentals, troubleshooting, and hands-on lab work
 - 🔊 **Electroacoustics background** — technical measurement, signals, and systems
-- 🔧 **Electronics & IoT projects** — ESP32, Raspberry Pi Pico W, sensors, microcontrollers, and hardware experimentation
+- 🔧 **Electronics & IoT projects** — ESP32, Raspberry Pi Pico W, Flipper Zero, Pineapple Wifi, sensors, microcontrollers, and hardware experimentation
 - 🔐 **Cybersecurity self-directed learning** — network security, traffic analysis, log investigation, and controlled lab testing
 
 ## 🛡️ Featured Cybersecurity Projects
